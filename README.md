@@ -7,6 +7,6 @@ Here a few data analyse project.
 
 ![Screenshot](survivorPerRate.png)
 
-![Screenshot](survivorRatioPieChart.png)
+![Screenshot](survivorRatioPieChartTitanic.png)
 
 ![Screenshot](fewPlotsTitanic.png)
