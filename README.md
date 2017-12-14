@@ -9,8 +9,8 @@ Here a few data analyse project.
 
 ![Screenshot](survivorsPerRate.png)
 
-![Screenshot](survivorRatioPieChartTitanic.png)
-
 ![Screenshot](lmplot.png)
 
 ![clustermap](clustermap.png)
+
+![clustermap](countplot.png)
