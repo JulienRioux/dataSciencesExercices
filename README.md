@@ -11,3 +11,6 @@ Here a few data analyse project.
 
 ![Screenshot](survivorRatioPieChartTitanic.png)
 
+![Screenshot](lmplot.png)
+
+![clustermap](lmplot.png)
