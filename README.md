@@ -13,4 +13,4 @@ Here a few data analyse project.
 
 ![Screenshot](lmplot.png)
 
-![clustermap](lmplot.png)
+![clustermap](clustermap.png)
