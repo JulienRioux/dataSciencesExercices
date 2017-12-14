@@ -14,5 +14,3 @@ Here a few data analyse project.
 ![Screenshot](survivorsPerRate.png)
 
 ![Screenshot](lmplot.png)
-
-![clustermap](countplot.png)
