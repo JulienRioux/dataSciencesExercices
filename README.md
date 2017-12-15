@@ -2,6 +2,7 @@
 
 Here a few data analyse project.
 
+![clustermap](30DayAverage.png)
 
 ![Screenshot](titanicAgePerSex.png)
 
@@ -14,7 +15,5 @@ Here a few data analyse project.
 ![Screenshot](survivorsPerRate.png)
 
 ![Screenshot](lmplot.png)
-
-![clustermap](30DayAverage.png)
 
 ![clustermap](closingPriceCorr.png)
